@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lh+iuABnnO1meXit5O4F7w5CMhiBTe3ztqSE1F8n7JFaFaiXEVglD5IJ6LVXPjT6Ofo/MrlIrqSrEHM0WAiEIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jenkinvm\\source\\repos\\jenkinDockerContainerDemo\\jenkinDockerContainerDemo\\jenkinDockerContainerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jenkinvm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
